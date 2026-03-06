@@ -27,3 +27,25 @@ This project demonstrates a clean layered architecture and basic CRUD operations
 - Postman (API testing).
 
 ## 📂 Project Structure
+  student-management
+│
+├── controller
+│ StudentController.java
+│
+├── service
+│ StudentService.java
+│ StudentServiceImpl.java
+│
+├── repository
+│ StudentRepository.java
+│
+├── entity
+│ Student.java
+│
+├── dto
+│ StudentDTO.java
+│
+├── exception
+│ GlobalExceptionHandler.java
+│
+└── StudentManagementApplication.java
