@@ -146,7 +146,7 @@ server.port=8080
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/Ram-014/student-management-system.git
 ```
 
 2. Open the project in **IntelliJ IDEA**
@@ -191,7 +191,7 @@ StudentManagementApplication.java
 
 ## 👨‍💻 Author
 
-**Ramakrishnan**
+**Ramakrishnan Aadhali**
 
 * Java Backend Developer (Aspiring)
 * Passionate about building scalable backend systems
